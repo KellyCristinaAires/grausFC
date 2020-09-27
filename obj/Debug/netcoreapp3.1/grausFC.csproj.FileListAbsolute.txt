@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.exe
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.deps.json
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.dll
+C:\Users\kelly\Documents\atividadespc1\grausFC\bin\Debug\netcoreapp3.1\grausFC.pdb
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.dll
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.pdb
+C:\Users\kelly\Documents\atividadespc1\grausFC\obj\Debug\netcoreapp3.1\grausFC.genruntimeconfig.cache
